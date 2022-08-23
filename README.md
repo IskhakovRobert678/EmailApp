@@ -1,1 +1,1 @@
-# EmailApp
+# EmailApp - почта по гайдам(ДЗ)№2
